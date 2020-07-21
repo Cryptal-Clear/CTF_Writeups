@@ -1,3 +1,3 @@
 # CTF_Writeups
 
-Simple Writeups of the challs I was able to solve in the CTFs I took part in
+Simple Writeups of the challs that my team and I were able to solve in the CTFs we took part in
